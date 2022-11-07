@@ -1,5 +1,5 @@
 {
-    "name": "igorhaf/laravel-admin-ext-scheduling",
+    "name": "molacorban/laravel-admin-ext-scheduling",
     "description": "Task scheduling extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "task", "Scheduling"],
@@ -11,14 +11,14 @@
             "email": "zosong@126.com"
         },
         {
-        "name": "igorhaf",
-        "email": "igorhaf@gmail.com"
+        "name": "molacorban",
+        "email": "andre.smolianinoff@molacorban.com.br"
         }
     ],
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": "~5.5",
-        "igorhaf/laravel-admin": "dev-master"
+        "molacorban/laravel-admin": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
